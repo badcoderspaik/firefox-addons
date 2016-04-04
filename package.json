@@ -1,0 +1,16 @@
+{
+  "title": "button-up",
+  "name": "button-up",
+  "version": "0.0.1",
+  "description": "button-up",
+  "main": "index.js",
+  "author": "Alexandr Timofeev",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
