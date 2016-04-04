@@ -1,15 +1,15 @@
 {
-  "title": "button-up",
-  "name": "button-up",
+  "title": "gmail",
+  "name": "gmail",
   "version": "0.0.1",
-  "description": "button-up",
+  "description": "gmail",
   "main": "index.js",
-  "author": "Alexandr Timofeev",
+  "author": "Alexander Timofeev",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
-  "license": "MIT",
+  "license": "GNU",
   "keywords": [
     "jetpack"
   ]
